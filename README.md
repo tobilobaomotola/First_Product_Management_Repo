@@ -4,7 +4,7 @@
 ---
 
 
-# Project Title
+# GitHub Issues
 
 ---
 
